@@ -1,7 +1,7 @@
 # Netflix_Analysis
 
 <center>
-<img src="Netflix.png" alt="" width="1000px" height="300px">
+<img src="Netflix.png" alt="" width="900px" height="300px">
 </center>
 
 Welcome to the Netflix Analysis project! This repository contains a dataset of Netflix shows and movies, along with scripts and analysis notebooks for exploring various aspects of the data. Whether you are interested in understanding viewing trends, exploring genres, or examining release patterns, this project aims to provide insights into Netflix's content library.
